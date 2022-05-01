@@ -6,6 +6,8 @@
 
 - cboveda@asu.edu
 
+- [chrisboveda.com](https://www.chrisboveda.com)
+
 - [linkedin](https://www.linkedin.com/in/chris-boveda/)
 
 <!---
