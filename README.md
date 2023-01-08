@@ -1,6 +1,8 @@
  **Chris Boveda**
 
-- Packaging Engineer pursuing B.S. Software Engineering
+- Graduated *summa cum laude* B.S. Software Engineering from Arizona State University
+
+- Experienced packaging design engineer with 10 years of experience in industry
 
 - Portland, OR
 
